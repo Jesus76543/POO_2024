@@ -41,5 +41,3 @@ class Usuario:
                return None    
         except:    
             return None  
-        
-
